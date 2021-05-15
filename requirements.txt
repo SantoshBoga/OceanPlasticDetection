@@ -9,3 +9,4 @@ ipython
 ee
 opencv-python
 joblib
+voila
