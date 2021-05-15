@@ -6,7 +6,7 @@ geemap
 ipywidgets
 ipyleaflet
 ipython
-ee
+earthengine-api
 opencv-python
 joblib
 voila
