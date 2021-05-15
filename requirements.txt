@@ -7,5 +7,5 @@ ipywidgets
 ipyleaflet
 ipython
 ee
-cv2
+opencv-python
 joblib
