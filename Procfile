@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True --show_tracebacks=True notebooks/app2.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True --show_tracebacks=True notebooks/app.ipynb
